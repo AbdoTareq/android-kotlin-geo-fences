@@ -61,12 +61,6 @@ internal object GeofencingConstants {
             LatLng(37.819927, -122.478256)),
 
         LandmarkDataObject(
-            "ferry_building",
-            R.string.ferry_building_hint,
-            R.string.ferry_building_location,
-            LatLng(37.795490, -122.394276)),
-
-        LandmarkDataObject(
             "pier_39",
             R.string.pier_39_hint,
             R.string.pier_39_location,
